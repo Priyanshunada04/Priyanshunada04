@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Priyanshu Nada
+- 🌱 I’m currently doing a computer science major at SFSU 🏫
+- 👀 I’m interested in 🚀 software development, 🤖 artificial intelligence, and 🌐 Web Development....
+- 📫 How to reach me -> nadapriyanshu04@gmail.com
+- 😄 Pronouns: He/Him
+
+
+<!---
+Priyanshunada04/Priyanshunada04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
