@@ -2,7 +2,7 @@
 - 🌱 I’m currently doing a computer science major at SFSU 🏫
 - 👀 I’m interested in 🚀 software development, 🤖 artificial intelligence, and 🌐 Web Development....
 - 📫 How to reach me -> nadapriyanshu04@gmail.com
-- 😄 Pronouns: He/Him
+- ⚡️ Fun fact -> I love to play tennis 🎾 and watch formula 1 🏎️ 
 
 
 <!---
