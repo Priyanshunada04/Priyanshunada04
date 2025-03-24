@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Nada
 - 🌱 I’m currently doing a computer science major at SFSU 🏫
-- 👀 I’m interested in 🚀 software development, 🤖 artificial intelligence, and 🌐 Web Development....
+- 👀 I’m interested in artificial intelligence, and UX design 
 - 📫 How to reach me -> pnada.jobs@gmail.com
 - ⚡️ Fun fact -> I love to play tennis 🎾 and watch formula 1 🏎️ 
 
